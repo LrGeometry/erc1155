@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
-    "bignumber.js": "^4.1.0",
+    "bignumber.js": "^8.1.1",
     "solc": "^0.5.4"
   },
   "devDependencies": {
